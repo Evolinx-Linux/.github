@@ -2,7 +2,7 @@
 
 **Some places to visit**
 
-* [Our website](http://drunk.epizy.com/)
+* [Drunk Website](http://drunk.epizy.com/](https://drunkos.martinvlba.eu)
 * [Nightly ISO's](https://github.com/Drunk-Linux/drunk_iso)
 * [TELEGRAM: Support/Chat](https://t.me/drunk_distro)
 * [Main source code location](https://git.it-kuny.ch/drunk)
